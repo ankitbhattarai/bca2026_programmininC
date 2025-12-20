@@ -1,1 +1,1 @@
-# bca2026_programmininC
+# bca2026_programminingTechniqueUsingC
